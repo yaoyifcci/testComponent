@@ -1,0 +1,10 @@
+{
+    "name": "yaoyi/test-component",
+    "authors": [
+        {
+            "name": "yaoyi",
+            "email": "yaoyi@fcci.cn"
+        }
+    ],
+    "require": {}
+}
